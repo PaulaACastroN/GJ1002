@@ -3,6 +3,6 @@ This repository hosts the Jupyter Notebook used to create the figures for the Re
 Mascareño et al. (2023)</a> that was used in the notebook can also be found in this repository.
 
 ## Authors:
-Paula Andrea Castro Nieva
-Sarah Dodson-Robison
-Victor Ramirez Delgado
+Paula Andrea Castro Nieva,
+Sarah Dodson-Robison,
+Victor Ramirez Delgado.
